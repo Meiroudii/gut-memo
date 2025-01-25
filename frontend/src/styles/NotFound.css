@@ -1,0 +1,9 @@
+:root {
+  font-size: 2rem;
+}
+
+.message {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
